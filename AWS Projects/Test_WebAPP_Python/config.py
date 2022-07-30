@@ -1,7 +1,7 @@
 #This project is from Intellipaat.
-customhost = "employee.coghw13fheqo.us-east-2.rds.amazonaws.com"
+customhost = "employee.cscrkgvl88ha.us-east-1.rds.amazonaws.com"
 customuser = "intellipaat"
-custompass = "intellipaat123"
+custompass = "Password123"
 customdb = "employee"
-custombucket = "addemployee"
-customregion = "us-east-2"
+custombucket = "vinaddemployee"
+customregion = "us-east-1"
