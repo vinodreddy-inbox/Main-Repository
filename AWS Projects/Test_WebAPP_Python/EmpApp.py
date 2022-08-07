@@ -29,7 +29,7 @@ def home():
 
 @app.route("/about", methods=['POST'])
 def about():
-    return render_template('www.intellipaat.com')
+    return render_template('www.mywebsite.com')
 
 
 @app.route("/addemp", methods=['POST'])
