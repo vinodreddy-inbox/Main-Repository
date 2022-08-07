@@ -1,15 +1,17 @@
-#This project is from Intellipaat.
-#Commands to update & install necessary environment. 
+#This project is from Intellipaat tutorial.
+
+#Commands to update & install necessary environment:
+
 sudo apt-get update
-# For Sql-client
+
+# For Sql-client:
 sudo apt-get install mysql-client
 
-# For python and related frameworks
-
+# For python and related modules:
 sudo apt-get install python3
 sudo apt-get install python3-flask
 sudo apt-get install python3-pymysql
 sudo apt-get install python3-boto3
 
-# for running application
+# To run application:
 sudo python3 Empapp.py
